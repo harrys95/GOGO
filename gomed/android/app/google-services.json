@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "396858760167",
+    "firebase_url": "https://gomed-f37ff.firebaseio.com",
+    "project_id": "gomed-f37ff",
+    "storage_bucket": "gomed-f37ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396858760167:android:6447f98fd07432f63dfb42",
+        "android_client_info": {
+          "package_name": "com.gogo.gomed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396858760167-833567m8f32f6k9ujjvp89i826ugi7es.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gogo.gomed",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "396858760167-mski2gimajk17csc16fe9nbekfpp2sic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbhIc7sYaZakc0SfcU1yH_yI0YoG2T7fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396858760167-mski2gimajk17csc16fe9nbekfpp2sic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
